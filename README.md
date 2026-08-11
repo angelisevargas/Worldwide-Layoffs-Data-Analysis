@@ -17,13 +17,14 @@ In this project, I used MySQL to clean and analyze a worldwide layoffs dataset. 
 - Used a self-join to populate missing industry data
 
 ## Exploratory Data Analysis
-- Analyzed layoffs by company, industry, country, and year
-- Examined monthly layoff trends
-- Calculated rolling totals using window functions
-- Ranked the top five companies by layoffs each year using `DENSE_RANK()`
+- Analyzed layoffs by company, industry, country, year, and company stage
+- Identified companies that laid off 100% of their workforce
+- Examined full-company layoffs based on funding raised
+- Analyzed monthly layoff trends and calculated rolling totals
+- Ranked the top five companies with the most layoffs each year using `DENSE_RANK()`
 
 ## Tableau Dashboard
 🚧 In Progress
 
 ## Skills Demonstrated
-SQL • Data Cleaning • CTEs • Joins • Window Functions • Exploratory Data Analysis • Tableau
+SQL • Data Cleaning • CTEs • Joins • Window Functions • Aggregate Functions • Exploratory Data Analysis • Tableau
