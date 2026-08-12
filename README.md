@@ -47,10 +47,6 @@ Created an interactive Tableau dashboard to visualize worldwide layoff trends an
 
 ![Worldwide Layoffs Dashboard](Tableau/Dashboard.png)
 
-### View Interactive Dashboard
-
-[View the Interactive Tableau Dashboard](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
-
 ## Skills Demonstrated
 
 - SQL
